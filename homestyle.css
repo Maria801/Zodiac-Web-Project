@@ -1,0 +1,89 @@
+.p2 {
+    font-size: 250%;
+    font-style: normal;
+    color: #001e69;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.p3 {
+    font-size: 150%;
+    font-style: normal;
+    color: #001e69;
+    text-align: left;
+    line-height: 1.5;
+}
+
+img {
+    float: right;
+}
+
+form {
+    position: absolute;
+    top: 20%;
+    left: 18%;
+}
+
+input[type=text],
+select {
+    width: 300px;
+    padding: 12px 0px 12px 5px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+input[type=password],
+select {
+    width: 300px;
+    padding: 12px 0px 12px 5px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+input[type=submit] {
+    width: 300px;
+    padding: 12px 0px 12px 5px;
+    margin: 8px 0;
+    color: seashell;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #474881;
+}
+
+input[type=submit]:hover {
+    width: 300px;
+    padding: 12px 0px 12px 5px;
+    margin: 8px 0;
+    color: seashell;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #626288;
+}
+
+input[type=button] {
+    width: 300px;
+    padding: 12px 0px 12px 5px;
+    margin: 8px 0;
+    color: seashell;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #474881;
+}
+
+input[type=button]:hover {
+    width: 300px;
+    padding: 12px 0px 12px 5px;
+    margin: 8px 0;
+    color: seashell;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #626288;
+}
+
+.p1 {
+    color: #474881;
+    text-align: center;
+    font-size: large;
+}
